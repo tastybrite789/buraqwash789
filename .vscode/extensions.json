@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "mhutchie.git-graph",
+    "eamodio.gitlens",
+    "donjayamanne.githistory",
+    "github.vscode-pull-request-github"
+  ],
+  "unwantedRecommendations": []
+}

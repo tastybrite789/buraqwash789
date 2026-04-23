@@ -1,0 +1,25 @@
+{
+  "git.enabled": true,
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "git.enableSmartCommit": true,
+  "git.suggestSmartCommit": true,
+  "git.autoStash": true,
+  "git.enableStatusBarSync": true,
+  "git.decorations.enabled": true,
+  "git.showPushSuccessNotification": true,
+  "git.detectSubmodules": true,
+  "git.detectSubmodulesLimit": 10,
+  "git.alwaysShowStagedChangesResourceGroup": true,
+  "git.showProgress": true,
+  "scm.defaultViewMode": "tree",
+  "scm.diffDecorations": "all",
+  "scm.alwaysShowActions": true,
+  "scm.alwaysShowRepositories": true,
+  "files.watcherExclude": {
+    "**/.git/objects/**": true,
+    "**/.git/subtree-cache/**": true,
+    "**/node_modules/**": true,
+    "**/.next/**": true
+  }
+}
